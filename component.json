@@ -1,0 +1,16 @@
+{
+  "name": "Search",
+  "version": "1.0.0",
+  "description": "Шаблон страницы поиска",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/product",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "pagination": "https://github.com/insales-components/pagination",
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
