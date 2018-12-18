@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Шаблон страницы поиска",
   "author": "LiquidHub.ru",
-  "type": "snippets",
+  "type": "templates",
   "homepage": "https://github.com/insales-components/product",
   "props": {
     "common": false,
